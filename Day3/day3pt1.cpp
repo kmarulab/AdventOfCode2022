@@ -50,7 +50,6 @@ int freq(string test){
     return val;
 }
 int main(){
-   string rucksack;
     string line;
     ifstream input("in.txt");
     int currSum=0;
